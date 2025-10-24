@@ -1,7 +1,8 @@
+// src/components/Header.tsx
 export default function Header() {
   return (
-    <div className="h-48 px-96 inline-flex justify-center items-center gap-2.5 overflow-hidden">
-      <div className="justify-start text-black text-7xl font-normal font-['Tmoney_RoundWind']">
+    <div className="w-[1080px] h-36 flex items-center justify-center overflow-hidden">
+      <div className="text-black text-7xl font-normal">
         팬도로시
       </div>
     </div>
